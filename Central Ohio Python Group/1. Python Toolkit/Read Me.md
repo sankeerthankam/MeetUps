@@ -1,4 +1,4 @@
-<header> Talk 1 - Python Toolkit for Data Science and Importing Data </header>
+<header> <b> Talk 1 - Python Toolkit for Data Science and Importing Data </b> </header>
 
 (i) Datatypes <br>
 (ii) Indexing <br>
