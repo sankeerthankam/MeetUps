@@ -1,8 +1,14 @@
-<header> <b> Talk 1 - Python Toolkit for Data Science and Importing Data </b> </header>
+Talk 1
+======
 
-(i) Datatypes <br>
-(ii) Indexing <br>
-(iii) Selecting Data <br>
-(iv) Functions <br>
-(v) Lambda Functions <br>
-(vi) Comprehensions <br>
+Python Toolkit for Data Science and Importing Data
+--------------------------------------------------
+
+_Python Toolkit_
+
+1. Datatypes
+2. Indexing
+3. Selecting Data
+4. Functions
+5. Lambda Functions
+6. Comprehensions
