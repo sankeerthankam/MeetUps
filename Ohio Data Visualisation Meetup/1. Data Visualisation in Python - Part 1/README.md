@@ -10,11 +10,11 @@ _Python Toolkit_
 2. Exploratory Data Analysis
 3. Matplotlib Plots
 
-   i.   Functional & Object Oriented Approach
-   ii.  Formatting Plots
-   iii. Scales & Ticks
+   i.   Functional & Object Oriented Approach <br>
+   ii.  Formatting Plots <br>
+   iii. Scales & Ticks <br>
 
 4. Seaborn
 
-   i.  Plotting Numerical Data 
-   ii. Plotting Categorical Data
+   i.  Plotting Numerical Data  <br>
+   ii. Plotting Categorical Data <br>
